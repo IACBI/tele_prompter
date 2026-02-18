@@ -6,6 +6,14 @@
 
 A professional, open-source teleprompter built with Python and PyQt5. Transparent overlay display window with a fully-featured control panel — no external files or dependencies beyond PyQt5.
 
+## Screenshots
+
+| | |
+|---|---|
+| ![](assets/1.png) | ![](assets/2.png) |
+| ![](assets/3.png) | ![](assets/4.png) |
+| ![](assets/5.png) | ![](assets/6.png) |
+
 ## Features
 
 | Category | Details |
